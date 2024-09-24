@@ -6404,3 +6404,162 @@ INFO - 2024-09-24 15:41:35 --> File loaded: D:\xampp-windows-x64-8.2.4-0-VS16\xa
 INFO - 2024-09-24 15:41:35 --> File loaded: D:\xampp-windows-x64-8.2.4-0-VS16\xampp\htdocs\mategram\application\views\admin/view_image.php
 INFO - 2024-09-24 15:41:35 --> Final output sent to browser
 DEBUG - 2024-09-24 15:41:35 --> Total execution time: 0.0772
+INFO - 2024-09-24 16:20:55 --> Config Class Initialized
+INFO - 2024-09-24 16:20:55 --> Hooks Class Initialized
+DEBUG - 2024-09-24 16:20:55 --> UTF-8 Support Enabled
+INFO - 2024-09-24 16:20:55 --> Utf8 Class Initialized
+INFO - 2024-09-24 16:20:55 --> URI Class Initialized
+INFO - 2024-09-24 16:20:55 --> Router Class Initialized
+INFO - 2024-09-24 16:20:55 --> Output Class Initialized
+INFO - 2024-09-24 16:20:55 --> Security Class Initialized
+DEBUG - 2024-09-24 16:20:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-24 16:20:55 --> Input Class Initialized
+INFO - 2024-09-24 16:20:55 --> Language Class Initialized
+INFO - 2024-09-24 16:20:55 --> Loader Class Initialized
+INFO - 2024-09-24 16:20:55 --> Helper loaded: url_helper
+INFO - 2024-09-24 16:20:55 --> Helper loaded: file_helper
+INFO - 2024-09-24 16:20:55 --> Database Driver Class Initialized
+DEBUG - 2024-09-24 16:20:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-24 16:20:55 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-24 16:20:55 --> Controller Class Initialized
+INFO - 2024-09-24 16:20:55 --> Model "Auth_model" initialized
+INFO - 2024-09-24 16:20:55 --> Model "Login_model" initialized
+INFO - 2024-09-24 16:20:55 --> Model "Dashboard_model" initialized
+INFO - 2024-09-24 16:20:55 --> Helper loaded: form_helper
+INFO - 2024-09-24 16:20:55 --> Form Validation Class Initialized
+DEBUG - 2024-09-24 16:20:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-24 16:20:55 --> File loaded: D:\xampp-windows-x64-8.2.4-0-VS16\xampp\htdocs\mategram\application\views\admin/login.php
+INFO - 2024-09-24 16:20:55 --> Final output sent to browser
+DEBUG - 2024-09-24 16:20:55 --> Total execution time: 0.0456
+INFO - 2024-09-24 16:21:02 --> Config Class Initialized
+INFO - 2024-09-24 16:21:02 --> Hooks Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> UTF-8 Support Enabled
+INFO - 2024-09-24 16:21:02 --> Utf8 Class Initialized
+INFO - 2024-09-24 16:21:02 --> URI Class Initialized
+INFO - 2024-09-24 16:21:02 --> Router Class Initialized
+INFO - 2024-09-24 16:21:02 --> Output Class Initialized
+INFO - 2024-09-24 16:21:02 --> Security Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-24 16:21:02 --> Input Class Initialized
+INFO - 2024-09-24 16:21:02 --> Language Class Initialized
+INFO - 2024-09-24 16:21:02 --> Loader Class Initialized
+INFO - 2024-09-24 16:21:02 --> Helper loaded: url_helper
+INFO - 2024-09-24 16:21:02 --> Helper loaded: file_helper
+INFO - 2024-09-24 16:21:02 --> Database Driver Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-24 16:21:02 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-24 16:21:02 --> Controller Class Initialized
+INFO - 2024-09-24 16:21:02 --> Model "Auth_model" initialized
+INFO - 2024-09-24 16:21:02 --> Model "Login_model" initialized
+INFO - 2024-09-24 16:21:02 --> Model "Dashboard_model" initialized
+INFO - 2024-09-24 16:21:02 --> Helper loaded: form_helper
+INFO - 2024-09-24 16:21:02 --> Form Validation Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-24 16:21:02 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-09-24 16:21:02 --> Config Class Initialized
+INFO - 2024-09-24 16:21:02 --> Hooks Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> UTF-8 Support Enabled
+INFO - 2024-09-24 16:21:02 --> Utf8 Class Initialized
+INFO - 2024-09-24 16:21:02 --> URI Class Initialized
+INFO - 2024-09-24 16:21:02 --> Router Class Initialized
+INFO - 2024-09-24 16:21:02 --> Output Class Initialized
+INFO - 2024-09-24 16:21:02 --> Security Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-24 16:21:02 --> Input Class Initialized
+INFO - 2024-09-24 16:21:02 --> Language Class Initialized
+INFO - 2024-09-24 16:21:02 --> Loader Class Initialized
+INFO - 2024-09-24 16:21:02 --> Helper loaded: url_helper
+INFO - 2024-09-24 16:21:02 --> Helper loaded: file_helper
+INFO - 2024-09-24 16:21:02 --> Database Driver Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-24 16:21:02 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-24 16:21:02 --> Controller Class Initialized
+INFO - 2024-09-24 16:21:02 --> Model "Auth_model" initialized
+INFO - 2024-09-24 16:21:02 --> Model "Login_model" initialized
+INFO - 2024-09-24 16:21:02 --> Model "Dashboard_model" initialized
+INFO - 2024-09-24 16:21:02 --> Helper loaded: form_helper
+INFO - 2024-09-24 16:21:02 --> Form Validation Class Initialized
+DEBUG - 2024-09-24 16:21:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-24 16:21:02 --> File loaded: D:\xampp-windows-x64-8.2.4-0-VS16\xampp\htdocs\mategram\application\views\admin/login.php
+INFO - 2024-09-24 16:21:02 --> Final output sent to browser
+DEBUG - 2024-09-24 16:21:02 --> Total execution time: 0.0378
+INFO - 2024-09-24 16:21:07 --> Config Class Initialized
+INFO - 2024-09-24 16:21:07 --> Hooks Class Initialized
+DEBUG - 2024-09-24 16:21:07 --> UTF-8 Support Enabled
+INFO - 2024-09-24 16:21:07 --> Utf8 Class Initialized
+INFO - 2024-09-24 16:21:07 --> URI Class Initialized
+INFO - 2024-09-24 16:21:07 --> Router Class Initialized
+INFO - 2024-09-24 16:21:07 --> Output Class Initialized
+INFO - 2024-09-24 16:21:07 --> Security Class Initialized
+DEBUG - 2024-09-24 16:21:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-24 16:21:07 --> Input Class Initialized
+INFO - 2024-09-24 16:21:07 --> Language Class Initialized
+INFO - 2024-09-24 16:21:07 --> Loader Class Initialized
+INFO - 2024-09-24 16:21:07 --> Helper loaded: url_helper
+INFO - 2024-09-24 16:21:07 --> Helper loaded: file_helper
+INFO - 2024-09-24 16:21:07 --> Database Driver Class Initialized
+DEBUG - 2024-09-24 16:21:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-24 16:21:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-24 16:21:07 --> Controller Class Initialized
+INFO - 2024-09-24 16:21:07 --> Model "Auth_model" initialized
+INFO - 2024-09-24 16:21:07 --> Model "Login_model" initialized
+INFO - 2024-09-24 16:21:07 --> Model "Dashboard_model" initialized
+INFO - 2024-09-24 16:21:07 --> Helper loaded: form_helper
+INFO - 2024-09-24 16:21:07 --> Form Validation Class Initialized
+DEBUG - 2024-09-24 16:21:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-24 16:21:07 --> File loaded: D:\xampp-windows-x64-8.2.4-0-VS16\xampp\htdocs\mategram\application\views\admin/login.php
+INFO - 2024-09-24 16:21:07 --> Final output sent to browser
+DEBUG - 2024-09-24 16:21:07 --> Total execution time: 0.0412
+INFO - 2024-09-24 16:21:14 --> Config Class Initialized
+INFO - 2024-09-24 16:21:14 --> Hooks Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> UTF-8 Support Enabled
+INFO - 2024-09-24 16:21:14 --> Utf8 Class Initialized
+INFO - 2024-09-24 16:21:14 --> URI Class Initialized
+INFO - 2024-09-24 16:21:14 --> Router Class Initialized
+INFO - 2024-09-24 16:21:14 --> Output Class Initialized
+INFO - 2024-09-24 16:21:14 --> Security Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-24 16:21:14 --> Input Class Initialized
+INFO - 2024-09-24 16:21:14 --> Language Class Initialized
+INFO - 2024-09-24 16:21:14 --> Loader Class Initialized
+INFO - 2024-09-24 16:21:14 --> Helper loaded: url_helper
+INFO - 2024-09-24 16:21:14 --> Helper loaded: file_helper
+INFO - 2024-09-24 16:21:14 --> Database Driver Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-24 16:21:14 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-24 16:21:14 --> Controller Class Initialized
+INFO - 2024-09-24 16:21:14 --> Model "Auth_model" initialized
+INFO - 2024-09-24 16:21:14 --> Model "Login_model" initialized
+INFO - 2024-09-24 16:21:14 --> Model "Dashboard_model" initialized
+INFO - 2024-09-24 16:21:14 --> Helper loaded: form_helper
+INFO - 2024-09-24 16:21:14 --> Form Validation Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-24 16:21:14 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-09-24 16:21:14 --> Config Class Initialized
+INFO - 2024-09-24 16:21:14 --> Hooks Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> UTF-8 Support Enabled
+INFO - 2024-09-24 16:21:14 --> Utf8 Class Initialized
+INFO - 2024-09-24 16:21:14 --> URI Class Initialized
+INFO - 2024-09-24 16:21:14 --> Router Class Initialized
+INFO - 2024-09-24 16:21:14 --> Output Class Initialized
+INFO - 2024-09-24 16:21:14 --> Security Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-24 16:21:14 --> Input Class Initialized
+INFO - 2024-09-24 16:21:14 --> Language Class Initialized
+INFO - 2024-09-24 16:21:14 --> Loader Class Initialized
+INFO - 2024-09-24 16:21:14 --> Helper loaded: url_helper
+INFO - 2024-09-24 16:21:14 --> Helper loaded: file_helper
+INFO - 2024-09-24 16:21:14 --> Database Driver Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-24 16:21:14 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-24 16:21:14 --> Controller Class Initialized
+INFO - 2024-09-24 16:21:14 --> Model "Auth_model" initialized
+INFO - 2024-09-24 16:21:14 --> Model "Login_model" initialized
+INFO - 2024-09-24 16:21:14 --> Model "Dashboard_model" initialized
+INFO - 2024-09-24 16:21:14 --> Helper loaded: form_helper
+INFO - 2024-09-24 16:21:14 --> Form Validation Class Initialized
+DEBUG - 2024-09-24 16:21:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-24 16:21:14 --> File loaded: D:\xampp-windows-x64-8.2.4-0-VS16\xampp\htdocs\mategram\application\views\partials/navbar.php
+INFO - 2024-09-24 16:21:14 --> File loaded: D:\xampp-windows-x64-8.2.4-0-VS16\xampp\htdocs\mategram\application\views\admin/dashboard.php
+INFO - 2024-09-24 16:21:14 --> Final output sent to browser
+DEBUG - 2024-09-24 16:21:14 --> Total execution time: 0.0455

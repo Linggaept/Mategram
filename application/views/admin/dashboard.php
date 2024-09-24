@@ -31,7 +31,7 @@
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-3 max-w-screen-xl mx-auto px-4 mb-6">
             <?php foreach ($images as $image): ?>
                 <a href="<?php echo base_url('dashboard/view_image/' . $image->gambar); ?>">
-                    <img src="<?php echo base_url('assets/upload/' . $image->gambar); ?>" class="aspect-square h-full max-w-auto rounded-lg object-cover object-center" alt="<?php echo $image->judul; ?>">
+                    <img src="<?php echo base_url('assets/upload/' . $image->gambar); ?>" class="aspect-square h-full max-w-auto rounded-lg object-cover object-center bg-white" alt="<?php echo $image->judul; ?>">
                 </a>
             <?php endforeach; ?>
         </div>
