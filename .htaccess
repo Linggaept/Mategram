@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
+
+# Tambahkan baris berikut untuk mengecualikan direktori 'public' dari aturan Rewrite
+RewriteCond %{REQUEST_URI} !^/public
+
+# Atau, jika Anda ingin mengecualikan ekstensi file tertentu (misalnya: jpg, png, gif)
+# RewriteCond %{REQUEST_URI} !\.(jpg|png|gif)$
+
+# Pastikan untuk menambahkan baris berikut agar server bisa membaca gambar
+<FilesMatch "\.(jpg|jpeg|png|gif)$">
+    Order allow,deny
+    Allow from all
+    Satisfy any
+</FilesMatch>
